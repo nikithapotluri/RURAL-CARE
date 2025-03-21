@@ -12,6 +12,7 @@ RURAL CARE is an Android application aimed at improving healthcare accessibility
 ## Tech Stack
 - **Java** (Android Development)
 - **Gradle** (Build Tool)
+- **Firebase** (Database)
 
 ## Project Structure
 - `app/`: Contains the Android application source code.

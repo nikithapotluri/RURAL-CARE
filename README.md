@@ -5,13 +5,12 @@ RURAL CARE is an Android application aimed at improving healthcare accessibility
 
 ## Features
 - User Authentication
-- Appointment Booking
-- Medical Resource Access
-- Notifications & Reminders
+- Doctor and Patients Login
+- Medical Assistance Access
 - User-friendly Interface
 
 ## Tech Stack
-- **Kotlin / Java** (Android Development)
+- **Java** (Android Development)
 - **Gradle** (Build Tool)
 
 ## Project Structure

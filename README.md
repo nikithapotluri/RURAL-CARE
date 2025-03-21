@@ -1,7 +1,7 @@
 # RURAL CARE
 
 ## Description
-RURAL CARE is an Android application aimed at improving healthcare accessibility and management for rural areas. It provides features such as booking appointments, accessing medical resources, and enhancing communication between healthcare providers and patients.
+RURAL CARE is an Android application aimed at improving healthcare accessibility and management for rural areas. It provides features such as accessing medical resources, and enhancing communication between healthcare providers and patients.
 
 ## Features
 - User Authentication

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689348028845",
+    "project_id": "ruralhealthcareconnect",
+    "storage_bucket": "ruralhealthcareconnect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689348028845:android:6aeb775ef441e5454b9924",
+        "android_client_info": {
+          "package_name": "com.example.ruralhealthcareconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9IBsbai3maFQ-Zlyh3s-VcLAqkKV_47Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

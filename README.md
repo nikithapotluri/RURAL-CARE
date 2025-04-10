@@ -1,5 +1,9 @@
 # RURAL CARE
 
+## Documentation
+
+📄 [Click here to read the Rural Care User Guide](https://tinyurl.com/RURAL-CARE-APP-REPORT)
+
 ## Description
 RURAL CARE is an Android application aimed at improving healthcare accessibility and management for rural areas. It provides features such as accessing medical resources, and enhancing communication between healthcare providers and patients.
 
